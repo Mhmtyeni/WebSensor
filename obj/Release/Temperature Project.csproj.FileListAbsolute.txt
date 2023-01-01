@@ -1,0 +1,10 @@
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\bin\Release\Temperature Project.exe.config
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\bin\Release\Temperature Project.exe
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\bin\Release\Temperature Project.pdb
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Release\Temperature Project.csproj.AssemblyReference.cache
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Release\Temperature_Project.Form1.resources
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Release\Temperature_Project.Properties.Resources.resources
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Release\Temperature Project.csproj.GenerateResource.cache
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Release\Temperature Project.csproj.CoreCompileInputs.cache
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Release\Temperature Project.exe
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Release\Temperature Project.pdb

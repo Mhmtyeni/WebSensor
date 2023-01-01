@@ -1,0 +1,29 @@
+C:\Users\c\source\repos\Temperature Project\Temperature Project\bin\Debug\Temperature Project.exe.config
+C:\Users\c\source\repos\Temperature Project\Temperature Project\bin\Debug\Temperature Project.exe
+C:\Users\c\source\repos\Temperature Project\Temperature Project\bin\Debug\Temperature Project.pdb
+C:\Users\c\source\repos\Temperature Project\Temperature Project\obj\Debug\Temperature Project.csprojAssemblyReference.cache
+C:\Users\c\source\repos\Temperature Project\Temperature Project\obj\Debug\Temperature_Project.Form1.resources
+C:\Users\c\source\repos\Temperature Project\Temperature Project\obj\Debug\Temperature_Project.Properties.Resources.resources
+C:\Users\c\source\repos\Temperature Project\Temperature Project\obj\Debug\Temperature Project.csproj.GenerateResource.cache
+C:\Users\c\source\repos\Temperature Project\Temperature Project\obj\Debug\Temperature Project.csproj.CoreCompileInputs.cache
+C:\Users\c\source\repos\Temperature Project\Temperature Project\obj\Debug\Temperature Project.exe
+C:\Users\c\source\repos\Temperature Project\Temperature Project\obj\Debug\Temperature Project.pdb
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\bin\Debug\Temperature Project.exe.config
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\bin\Debug\Temperature Project.exe
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\bin\Debug\Temperature Project.pdb
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Debug\Temperature Project.csproj.AssemblyReference.cache
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Debug\Temperature_Project.Form1.resources
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Debug\Temperature_Project.Properties.Resources.resources
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Debug\Temperature Project.csproj.GenerateResource.cache
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Debug\Temperature Project.csproj.CoreCompileInputs.cache
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Debug\Temperature Project.exe
+C:\Users\berato\Desktop\Temperature Project\Temperature Project\obj\Debug\Temperature Project.pdb
+C:\Users\berato\Documents\GitHub\WebSensor\Temperature Project\bin\Debug\Temperature Project.exe.config
+C:\Users\berato\Documents\GitHub\WebSensor\Temperature Project\bin\Debug\Temperature Project.exe
+C:\Users\berato\Documents\GitHub\WebSensor\Temperature Project\bin\Debug\Temperature Project.pdb
+C:\Users\berato\Documents\GitHub\WebSensor\Temperature Project\obj\Debug\Temperature_Project.Form1.resources
+C:\Users\berato\Documents\GitHub\WebSensor\Temperature Project\obj\Debug\Temperature_Project.Properties.Resources.resources
+C:\Users\berato\Documents\GitHub\WebSensor\Temperature Project\obj\Debug\Temperature Project.csproj.GenerateResource.cache
+C:\Users\berato\Documents\GitHub\WebSensor\Temperature Project\obj\Debug\Temperature Project.csproj.CoreCompileInputs.cache
+C:\Users\berato\Documents\GitHub\WebSensor\Temperature Project\obj\Debug\Temperature Project.exe
+C:\Users\berato\Documents\GitHub\WebSensor\Temperature Project\obj\Debug\Temperature Project.pdb

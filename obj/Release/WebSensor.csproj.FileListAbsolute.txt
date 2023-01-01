@@ -1,0 +1,72 @@
+C:\Users\VESTEL\Documents\GitHub\WebSensor\Temperature Project\obj\Release\WebSensor.Properties.Resources.resources
+C:\Users\VESTEL\Documents\GitHub\WebSensor\Temperature Project\obj\Release\WebSensor.csproj.GenerateResource.cache
+C:\Users\VESTEL\Documents\GitHub\WebSensor\Temperature Project\obj\Release\WebSensor.csproj.CoreCompileInputs.cache
+C:\Users\VESTEL\Documents\GitHub\WebSensor\Temperature Project\bin\Release\WebSensor.exe.config
+C:\Users\VESTEL\Documents\GitHub\WebSensor\Temperature Project\bin\Release\WebSensor.exe
+C:\Users\VESTEL\Documents\GitHub\WebSensor\Temperature Project\bin\Release\WebSensor.pdb
+C:\Users\VESTEL\Documents\GitHub\WebSensor\Temperature Project\obj\Release\WebSensor.Form1.resources
+C:\Users\VESTEL\Documents\GitHub\WebSensor\Temperature Project\obj\Release\WebSensor.exe
+C:\Users\VESTEL\Documents\GitHub\WebSensor\Temperature Project\obj\Release\WebSensor.pdb
+C:\Users\VESTEL\Documents\GitHub\WebSensor\WebSensor\bin\Release\WebSensor.exe.config
+C:\Users\VESTEL\Documents\GitHub\WebSensor\WebSensor\bin\Release\WebSensor.exe
+C:\Users\VESTEL\Documents\GitHub\WebSensor\WebSensor\bin\Release\WebSensor.pdb
+C:\Users\VESTEL\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.Form1.resources
+C:\Users\VESTEL\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.Properties.Resources.resources
+C:\Users\VESTEL\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.csproj.GenerateResource.cache
+C:\Users\VESTEL\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.csproj.CoreCompileInputs.cache
+C:\Users\VESTEL\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.exe
+C:\Users\VESTEL\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.pdb
+C:\Users\tugayo\Documents\GitHub\WebSensor\WebSensor\bin\Release\WebSensor.exe.config
+C:\Users\tugayo\Documents\GitHub\WebSensor\WebSensor\bin\Release\WebSensor.exe
+C:\Users\tugayo\Documents\GitHub\WebSensor\WebSensor\bin\Release\WebSensor.pdb
+C:\Users\tugayo\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.csprojAssemblyReference.cache
+C:\Users\tugayo\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.Form1.resources
+C:\Users\tugayo\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.Properties.Resources.resources
+C:\Users\tugayo\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.csproj.GenerateResource.cache
+C:\Users\tugayo\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.exe
+C:\Users\tugayo\Documents\GitHub\WebSensor\WebSensor\obj\Release\WebSensor.pdb
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\WebSensor.exe.config
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\WebSensor.exe
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\WebSensor.pdb
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.Form1.resources
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.Properties.Resources.resources
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.csproj.GenerateResource.cache
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.exe
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.pdb
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\ClosedXML.dll
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\ExcelNumberFormat.dll
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\System.IO.Packaging.dll
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\ClosedXML.pdb
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\ClosedXML.xml
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\ExcelNumberFormat.xml
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.csprojAssemblyReference.cache
+C:\Users\tugayo\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.csproj.CopyComplete
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\WebSensor.exe.config
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\WebSensor.exe.manifest
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\WebSensor.application
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\WebSensor.exe
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\WebSensor.pdb
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\ClosedXML.dll
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\ExcelNumberFormat.dll
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\Guna.UI2.dll
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\System.IO.Packaging.dll
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\ClosedXML.pdb
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\ClosedXML.xml
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\bin\Release\ExcelNumberFormat.xml
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.Form1.resources
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.Properties.Resources.resources
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.csproj.GenerateResource.cache
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.csproj.CoreCompileInputs.cache
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.exe.manifest
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.application
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.csproj.CopyComplete
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.exe
+C:\Users\berato\Documents\GitHub\webSensor-V2\WebSensor\obj\Release\WebSensor.pdb
